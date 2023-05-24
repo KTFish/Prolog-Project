@@ -1,5 +1,8 @@
 # Prolog-Project
 Project realized for the subject Declarative Programming at Univeristy of Warmia and Mazury in Olsztyn together with my colleague [@Zeusthegoddd](https://github.com/Zeusthegoddd)
+
+For this project we had a time short limit so there is a lot of space for improvements.
+
 Topic: Books and comics
 
 The aim of the project is to describe simple relationships and facts
